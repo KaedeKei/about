@@ -1,0 +1,9 @@
+.banner-block {
+    background: url(../../../../assets/images/white-concrete-wall.jpg) center/cover;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 80px;
+    text-shadow: 5px 5px 11px rgb(77, 71, 91);
+}
